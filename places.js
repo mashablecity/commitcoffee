@@ -1435,6 +1435,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "Coffee Exchange",
+		"address": "207 Wickenden St, Providence, RI 02903",
+		"coordinates": ["41.819275", "-71.399081"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/coffee-exchange-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

@@ -1380,6 +1380,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "Small Point Café",
+		"address": "230 Westminster St, Providence, RI 02903",
+		"coordinates": ["41.822959", "-71.412513"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/small-point-café-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

@@ -1402,6 +1402,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "The Duck and Bunny",
+		"address": "312 Wickenden St, Providence, RI",
+		"coordinates": ["41.819664", "-71.396906"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/the-duck-and-bunny-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

@@ -1391,6 +1391,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "Blue State Coffee",
+		"address": "300 Thayer St, Providence, RI 02906",
+		"coordinates": ["41.830135", "-71.401046"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/blue-state-coffee-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

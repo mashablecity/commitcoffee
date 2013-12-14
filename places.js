@@ -1358,6 +1358,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "Malachi's",
+		"address": "134 Ives St, Providence, RI 02906",
+		"coordinates": ["41.821898", "-71.392167"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/malachis-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

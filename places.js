@@ -1369,6 +1369,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "White Electric Coffee",
+		"address": "711 Westminster St, Providence, RI 02903",
+		"coordinates": ["41.818550", "-71.420079"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/white-electric-coffee-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

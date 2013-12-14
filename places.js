@@ -1424,6 +1424,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "New Harvest Coffee & Spirits",
+		"address": "130 Westminster St, Ste 118, Providence, RI 02903",
+		"coordinates": ["41.824152", "-71.410730"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/new-harvest-coffee-and-spirits-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",

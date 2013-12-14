@@ -1413,6 +1413,17 @@ var places = [
 		}
 	},
 	{
+		"city": "Providence",
+		"state": "RI",
+		"country": "USA",
+		"name": "Cafe Zog",
+		"address": "239 Wickenden St, Providence, RI",
+		"coordinates": ["41.819415", "-71.398484"],
+		"link": {
+			"yelp": "http://www.yelp.com/biz/cafe-zog-providence"
+		}
+	},
+	{
 		"city": "Smyrna",
 		"country": "USA",
 		"name": "Rev Coffee",
